@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\seminar0007.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\seminar0007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\seminar0007.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\seminar0007.AssemblyInfo.cs
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\seminar0007.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\bin\Debug\net6.0\seminar0007.exe
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\bin\Debug\net6.0\seminar0007.deps.json
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\bin\Debug\net6.0\seminar0007.runtimeconfig.json
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\bin\Debug\net6.0\seminar0007.dll
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\bin\Debug\net6.0\seminar0007.pdb
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\seminar0007.dll
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\refint\seminar0007.dll
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\seminar0007.pdb
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\seminar0007.genruntimeconfig.cache
+C:\Users\asus\Desktop\семинар 7\seminar7\seminar0007\obj\Debug\net6.0\ref\seminar0007.dll
